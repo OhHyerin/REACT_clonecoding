@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/OhHyerin/REACT_clonecoding.git/static/css/main.247c0ba3.chunk.css",
+    "main.js": "/OhHyerin/REACT_clonecoding.git/static/js/main.a6c34686.chunk.js",
+    "main.js.map": "/OhHyerin/REACT_clonecoding.git/static/js/main.a6c34686.chunk.js.map",
+    "runtime-main.js": "/OhHyerin/REACT_clonecoding.git/static/js/runtime-main.22c77fbf.js",
+    "runtime-main.js.map": "/OhHyerin/REACT_clonecoding.git/static/js/runtime-main.22c77fbf.js.map",
+    "static/js/2.bfe93519.chunk.js": "/OhHyerin/REACT_clonecoding.git/static/js/2.bfe93519.chunk.js",
+    "static/js/2.bfe93519.chunk.js.map": "/OhHyerin/REACT_clonecoding.git/static/js/2.bfe93519.chunk.js.map",
+    "index.html": "/OhHyerin/REACT_clonecoding.git/index.html",
+    "static/css/main.247c0ba3.chunk.css.map": "/OhHyerin/REACT_clonecoding.git/static/css/main.247c0ba3.chunk.css.map",
+    "static/js/2.bfe93519.chunk.js.LICENSE.txt": "/OhHyerin/REACT_clonecoding.git/static/js/2.bfe93519.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22c77fbf.js",
+    "static/js/2.bfe93519.chunk.js",
+    "static/css/main.247c0ba3.chunk.css",
+    "static/js/main.a6c34686.chunk.js"
+  ]
+}
